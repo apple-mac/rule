@@ -1,6 +1,17 @@
+DOMAIN,frontier-im.douyin.com
+DOMAIN,frontier-pc.douyin.com
+DOMAIN,imapi.douyin.com
+DOMAIN,live.douyin.com
 DOMAIN,lf3-static.bytednsdoc.com
+DOMAIN,p11-webcast-sign.douyinpic.com
+DOMAIN,p9-pc-sign.douyinpic.com
+DOMAIN,pull-f5.douyinliving.com
 DOMAIN,v5-dy-o-abtest.zjcdn.com
+DOMAIN,webcast100-ws-web-lf.douyin.com
+DOMAIN,webcast100-ws-web-lq.douyin.com
+DOMAIN,www-hj.douyin.com
 DOMAIN-SUFFIX,amemv.com
+DOMAIN-SUFFIX,douyin.com
 DOMAIN-SUFFIX,douyincdn.com
 DOMAIN-SUFFIX,douyinpic.com
 DOMAIN-SUFFIX,douyinstatic.com
